@@ -1,0 +1,6 @@
+*.npy
+*.xml
+runs/
+.idea/
+__pycache__/
+
